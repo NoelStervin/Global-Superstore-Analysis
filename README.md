@@ -11,9 +11,13 @@ Interactive Dashboard: A Visual Story
 ## The Power BI dashboard offers an interactive experience, allowing users to explore data dynamically:
 
 Sales at a Glance: Total sales, profit, and quantity sold are brought to life with visualizations. Time series line charts depict sales trends over time, providing a clear picture of performance.
+
 Regional Deep Dive: Geographic maps showcase sales distribution across regions. Users can delve deeper into specific regions using drill-down capabilities.
+
 Product Powerhouse: Top-selling products and categories are highlighted alongside profitability analysis, all brought to life with visualizations. We'll also identify products requiring strategic attention.
+
 Customer Focus: Customer segments are analyzed based on purchasing behavior. Engaging visualizations help us identify and target high-value customer segments for optimized marketing efforts.
+
 Performance at Your Fingertips: Key Performance Indicators (KPIs) like Average Order Value, Profit Margin, and Customer Retention Rate are readily available for at-a-glance performance evaluation.
 Unveiling the Power of Data
 
